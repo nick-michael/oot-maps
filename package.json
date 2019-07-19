@@ -1,7 +1,8 @@
 {
   "name": "oot-maps",
   "version": "0.1.0",
-  "private": true,
+  "homepage" : "https://nick-michael.github.io/oot-maps/",
+  "private": false,
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
